@@ -38,3 +38,16 @@ class Entidad(ABC):
 # =========================
 # CLIENTE
 # =========================
+
+
+
+
+
+
+
+
+
+
+
+
+hola mi nombre es miguel
